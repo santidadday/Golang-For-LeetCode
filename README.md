@@ -1,5 +1,5 @@
 # Golang-For-LeetCode
-##Easy
+## Easy
 - 0001
 - 0009
 - 0013
