@@ -1,4 +1,4 @@
-package Golang_For_LeetCode
+package Easy
 
 import "strings"
 
