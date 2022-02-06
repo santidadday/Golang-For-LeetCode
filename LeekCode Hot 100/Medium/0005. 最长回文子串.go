@@ -1,4 +1,4 @@
-package Middle
+package Medium
 
 func longestPalindrome(s string) string {
 	if s == "" {
