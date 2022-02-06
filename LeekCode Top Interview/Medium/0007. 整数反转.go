@@ -1,4 +1,4 @@
-package Middle
+package Medium
 
 import (
 	"fmt"
