@@ -1,6 +1,6 @@
 package Medium
 
-//使用顺序查找方式,时间复杂度为O(log n)
+//使用顺序查找方式,时间复杂度为O(n)
 func search1(nums []int, target int) int {
 	Maxlen := len(nums)
 	if target > nums[Maxlen-1] {
